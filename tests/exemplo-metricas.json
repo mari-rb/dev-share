@@ -1,0 +1,121 @@
+{
+  "participantId": "P01",
+  "sessionStart": 1740513120000,
+  "sessionEnd": 1740513240000,
+  "totalDuration": 120000,
+  "deadClicks": 3,
+  "flows": [
+    {
+      "name": "postar-dica",
+      "totalDuration": 45234.56,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "preenchimento-titulo",
+          "timestamp": 1234.56,
+          "duration": 234.56
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 5678.9,
+          "duration": 4444.34
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "formatacao-codigo",
+          "timestamp": 12345.67,
+          "duration": 6666.77
+        },
+        {
+          "from": "formatacao-codigo",
+          "to": "clique-submit",
+          "timestamp": 23456.78,
+          "duration": 11111.11
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-postagem",
+          "timestamp": 46469.12,
+          "duration": 23012.34
+        }
+      ]
+    },
+    {
+      "name": "explorar-salvar",
+      "totalDuration": 15678.9,
+      "transitions": [
+        {
+          "from": "inicio-feed",
+          "to": "visualizacao-dica",
+          "timestamp": 50123.45,
+          "duration": 3654.33
+        },
+        {
+          "from": "visualizacao-dica",
+          "to": "toggle-salvo",
+          "timestamp": 65802.35,
+          "duration": 15678.9
+        },
+        {
+          "from": "toggle-salvo",
+          "to": "inicio-salvos",
+          "timestamp": 75234.56,
+          "duration": 9432.21
+        }
+      ]
+    }
+  ],
+  "rawEvents": [
+    {
+      "flow": "postar-dica",
+      "step": "inicio-fluxo",
+      "timestamp": 1234.56
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 1469.12
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 5678.9
+    },
+    {
+      "flow": "postar-dica",
+      "step": "formatacao-codigo",
+      "timestamp": 12345.67
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 23456.78
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 46469.12
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 50123.45
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "visualizacao-dica",
+      "timestamp": 53777.78
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "toggle-salvo",
+      "timestamp": 65802.35
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 75234.56
+    }
+  ]
+}

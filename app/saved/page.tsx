@@ -1,0 +1,5 @@
+import { SavedPage } from "@/components/saved-page"
+
+export default function SavedRoute() {
+  return <SavedPage />
+}
