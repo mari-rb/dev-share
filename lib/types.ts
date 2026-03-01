@@ -32,7 +32,7 @@ export interface Comment {
 export const CATEGORIES: Category[] = ["Dev", "Design", "DevOps", "Dados", "Produtividade"]
 
 export const ALL_TOOLS = [
-  "React", "Next.js", "TypeScript", "Node.js", "Python",
+  "React", "Next.js", "TypeScript", "Node.js", "Python", "PHP",
   "Figma", "Tailwind CSS", "Docker", "Kubernetes", "AWS",
   "PostgreSQL", "MongoDB", "Redis", "Git", "VS Code",
   "GraphQL", "Prisma", "Terraform", "CI/CD", "Notion",

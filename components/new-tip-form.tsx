@@ -69,6 +69,8 @@ export function NewTipForm() {
           language = "python";
         else if (/^#include|^int main/.test(trimmed)) language = "cpp";
         else if (/^func |^var |^let/.test(trimmed)) language = "swift";
+        else if (/^<\?php|^echo|^\$[a-zA-Z_]|^function /.test(trimmed))
+          language = "php";
 
         // Se encontrou uma linha de código e ainda não está em bloco, iniciar bloco
         if (!inCodeBlock && i > 0 && lines[i - 1].trim() !== "") {
