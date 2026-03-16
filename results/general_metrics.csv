@@ -1,0 +1,4 @@
+participant_id,total_duration_s,dead_clicks,num_events,num_flows
+P0,64.354,1,78,3
+P001,267.343,3,553,4
+P02,94.573,24,157,2

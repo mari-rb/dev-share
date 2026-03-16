@@ -1,0 +1,5 @@
+flow,n_participants,mean_duration_s,std_duration_s,mean_long_pauses,sum_long_pauses,friction_score
+explorar-salvar,10,337.804,222.292,6.2,62,100.0
+criar-perfil,10,253.806,266.895,2.3,23,32.02
+comentar-reagir,9,162.605,209.979,3.444,31,12.29
+postar-dica,9,169.52,135.598,2.222,20,2.37

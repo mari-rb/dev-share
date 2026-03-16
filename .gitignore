@@ -8,12 +8,3 @@ node_modules/
 .next/
 .env*.local
 .DS_Store
-
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
-*.csv
-*.png
