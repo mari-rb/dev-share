@@ -1,0 +1,349 @@
+{
+  "participantId": "P10",
+  "sessionStart": 1772300000000,
+  "sessionEnd": 1772300268000,
+  "totalDuration": 268000,
+  "deadClicks": 1,
+  "flows": [
+    {
+      "name": "explorar-salvar",
+      "totalDuration": 195000,
+      "transitions": [
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 1000,
+          "duration": 1000
+        },
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 52000,
+          "duration": 51000
+        },
+        {
+          "from": "inicio-feed",
+          "to": "filtro-dev",
+          "timestamp": 65000,
+          "duration": 13000
+        },
+        {
+          "from": "filtro-dev",
+          "to": "inicio-feed",
+          "timestamp": 145000,
+          "duration": 80000
+        },
+        {
+          "from": "inicio-feed",
+          "to": "salvar-dica",
+          "timestamp": 158000,
+          "duration": 13000
+        },
+        {
+          "from": "salvar-dica",
+          "to": "inicio-salvos",
+          "timestamp": 161500,
+          "duration": 3500
+        },
+        {
+          "from": "inicio-salvos",
+          "to": "inicio-salvos",
+          "timestamp": 175000,
+          "duration": 13500
+        },
+        {
+          "from": "inicio-salvos",
+          "to": "inicio-salvos",
+          "timestamp": 195000,
+          "duration": 20000
+        }
+      ]
+    },
+    {
+      "name": "criar-perfil",
+      "totalDuration": 82000,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "inicio-fluxo",
+          "timestamp": 500,
+          "duration": 500
+        },
+        {
+          "from": "inicio-fluxo",
+          "to": "preenchimento-nome",
+          "timestamp": 6000,
+          "duration": 5500
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 8000,
+          "duration": 2000
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 10500,
+          "duration": 2500
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-bio",
+          "timestamp": 16000,
+          "duration": 5500
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 19000,
+          "duration": 3000
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 22500,
+          "duration": 3500
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 34000,
+          "duration": 11500
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "clique-submit",
+          "timestamp": 39500,
+          "duration": 5500
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 45000,
+          "duration": 5500
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-salvo",
+          "timestamp": 45100,
+          "duration": 100
+        }
+      ]
+    },
+    {
+      "name": "postar-dica",
+      "totalDuration": 98000,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "inicio-fluxo",
+          "timestamp": 500,
+          "duration": 500
+        },
+        {
+          "from": "inicio-fluxo",
+          "to": "preenchimento-titulo",
+          "timestamp": 5500,
+          "duration": 5000
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 8000,
+          "duration": 2500
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 10500,
+          "duration": 2500
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 18000,
+          "duration": 7500
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 21000,
+          "duration": 3000
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 25000,
+          "duration": 4000
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "clique-submit",
+          "timestamp": 55000,
+          "duration": 30000
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 61500,
+          "duration": 6500
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 63000,
+          "duration": 1500
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-postagem",
+          "timestamp": 69000,
+          "duration": 6000
+        },
+        {
+          "from": "confirmacao-postagem",
+          "to": "confirmacao-postagem",
+          "timestamp": 73000,
+          "duration": 4000
+        }
+      ]
+    },
+    {
+      "name": "comentar-reagir",
+      "totalDuration": 38000,
+      "transitions": [
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 500,
+          "duration": 500
+        },
+        {
+          "from": "inicio-feed",
+          "to": "detalhe-post",
+          "timestamp": 8000,
+          "duration": 7500
+        },
+        {
+          "from": "detalhe-post",
+          "to": "detalhe-post",
+          "timestamp": 15000,
+          "duration": 7000
+        },
+        {
+          "from": "detalhe-post",
+          "to": "detalhe-post",
+          "timestamp": 22000,
+          "duration": 7000
+        },
+        {
+          "from": "detalhe-post",
+          "to": "reacao-enviada",
+          "timestamp": 30000,
+          "duration": 8000
+        },
+        {
+          "from": "reacao-enviada",
+          "to": "reacao-enviada",
+          "timestamp": 38000,
+          "duration": 8000
+        }
+      ]
+    }
+  ],
+  "rawEvents": [
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 1000
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "filtro-dev",
+      "timestamp": 65000
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "salvar-dica",
+      "timestamp": 158000
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 161500
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "inicio-fluxo",
+      "timestamp": 500
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 6000
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 16000
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 34000
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "clique-submit",
+      "timestamp": 39500
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "confirmacao-salvo",
+      "timestamp": 45100
+    },
+    {
+      "flow": "postar-dica",
+      "step": "inicio-fluxo",
+      "timestamp": 500
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 5500
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 18000
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 55000
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 69000
+    },
+    {
+      "flow": "comentar-reagir",
+      "step": "inicio-feed",
+      "timestamp": 500
+    },
+    {
+      "flow": "comentar-reagir",
+      "step": "detalhe-post",
+      "timestamp": 8000
+    },
+    {
+      "flow": "comentar-reagir",
+      "step": "reacao-enviada",
+      "timestamp": 30000
+    }
+  ],
+  "_synthetic": true,
+  "_note": "Participante sintetico criado para completar N=10. Valores baseados na mediana dos demais participantes. NAO deve ser interpretado como dado real."
+}

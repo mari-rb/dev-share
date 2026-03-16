@@ -1,0 +1,2794 @@
+{
+  "participantId": "P01",
+  "sessionStart": 1772216234503,
+  "sessionEnd": 1772216470407,
+  "totalDuration": 235904,
+  "deadClicks": 2,
+  "flows": [
+    {
+      "name": "explorar-salvar",
+      "totalDuration": 223997,
+      "transitions": [
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 77310.69999998808,
+          "duration": 76962.59999999404
+        },
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 77311,
+          "duration": 0.30000001192092896
+        },
+        {
+          "from": "inicio-feed",
+          "to": "filtro-dev",
+          "timestamp": 94359.89999997616,
+          "duration": 17048.899999976158
+        },
+        {
+          "from": "filtro-dev",
+          "to": "inicio-feed",
+          "timestamp": 196458.5,
+          "duration": 102098.60000002384
+        },
+        {
+          "from": "inicio-feed",
+          "to": "inicio-feed",
+          "timestamp": 196458.79999998212,
+          "duration": 0.29999998211860657
+        },
+        {
+          "from": "inicio-feed",
+          "to": "salvar-dica",
+          "timestamp": 207701.79999998212,
+          "duration": 11243
+        },
+        {
+          "from": "salvar-dica",
+          "to": "inicio-salvos",
+          "timestamp": 210869,
+          "duration": 3167.2000000178814
+        },
+        {
+          "from": "inicio-salvos",
+          "to": "inicio-salvos",
+          "timestamp": 210869.59999999404,
+          "duration": 0.5999999940395355
+        },
+        {
+          "from": "inicio-salvos",
+          "to": "inicio-salvos",
+          "timestamp": 224344.59999999404,
+          "duration": 13475
+        },
+        {
+          "from": "inicio-salvos",
+          "to": "inicio-salvos",
+          "timestamp": 224345.09999999404,
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "name": "criar-perfil",
+      "totalDuration": 75165,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "inicio-fluxo",
+          "timestamp": 525.8999999761581,
+          "duration": 0.5
+        },
+        {
+          "from": "inicio-fluxo",
+          "to": "preenchimento-nome",
+          "timestamp": 7451.799999982119,
+          "duration": 6925.9000000059605
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 8596.59999999404,
+          "duration": 1144.800000011921
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 8938.899999976158,
+          "duration": 342.2999999821186
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 9162.5,
+          "duration": 223.60000002384186
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 9429.699999988079,
+          "duration": 267.19999998807907
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 9677.199999988079,
+          "duration": 247.5
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 9847.09999999404,
+          "duration": 169.90000000596046
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 10006.899999976158,
+          "duration": 159.7999999821186
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 10263.09999999404,
+          "duration": 256.2000000178814
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 10915.299999982119,
+          "duration": 652.1999999880791
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 11444.699999988079,
+          "duration": 529.4000000059605
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 11709.59999999404,
+          "duration": 264.90000000596046
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 12144.59999999404,
+          "duration": 435
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 13063,
+          "duration": 918.4000000059605
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 13538.699999988079,
+          "duration": 475.69999998807907
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-nome",
+          "timestamp": 13697.5,
+          "duration": 158.80000001192093
+        },
+        {
+          "from": "preenchimento-nome",
+          "to": "preenchimento-bio",
+          "timestamp": 16798.79999998212,
+          "duration": 3101.2999999821186
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 17327.29999998212,
+          "duration": 528.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 17635,
+          "duration": 307.7000000178814
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 18019.19999998808,
+          "duration": 384.19999998807907
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 18730.5,
+          "duration": 711.3000000119209
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 18976,
+          "duration": 245.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 19666.09999999404,
+          "duration": 690.0999999940395
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 19915.19999998808,
+          "duration": 249.09999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 20804.5,
+          "duration": 889.3000000119209
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 21308.59999999404,
+          "duration": 504.09999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 21803.899999976158,
+          "duration": 495.2999999821186
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 21941.59999999404,
+          "duration": 137.7000000178814
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 23360.79999998212,
+          "duration": 1419.199999988079
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 23698.59999999404,
+          "duration": 337.80000001192093
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 23838.69999998808,
+          "duration": 140.09999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 24796.29999998212,
+          "duration": 957.5999999940395
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 25669.19999998808,
+          "duration": 872.9000000059605
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 26035.69999998808,
+          "duration": 366.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 26304.29999998212,
+          "duration": 268.59999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 26582.5,
+          "duration": 278.2000000178814
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 26760.59999999404,
+          "duration": 178.09999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 26887.09999999404,
+          "duration": 126.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 27194.69999998808,
+          "duration": 307.59999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 27878.69999998808,
+          "duration": 684
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 28291.19999998808,
+          "duration": 412.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 28497.19999998808,
+          "duration": 206
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 29583.19999998808,
+          "duration": 1086
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 29779,
+          "duration": 195.80000001192093
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 30320.5,
+          "duration": 541.5
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-bio",
+          "timestamp": 30583.09999999404,
+          "duration": 262.59999999403954
+        },
+        {
+          "from": "preenchimento-bio",
+          "to": "preenchimento-area",
+          "timestamp": 35650.19999998808,
+          "duration": 5067.0999999940395
+        },
+        {
+          "from": "preenchimento-area",
+          "to": "preenchimento-area",
+          "timestamp": 38248.59999999404,
+          "duration": 2598.4000000059605
+        },
+        {
+          "from": "preenchimento-area",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 42053.09999999404,
+          "duration": 3804.5
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 44607.89999997616,
+          "duration": 2554.7999999821186
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 49570.89999997616,
+          "duration": 4963
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 68007.5,
+          "duration": 18436.600000023842
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "preenchimento-ferramentas",
+          "timestamp": 70743.39999997616,
+          "duration": 2735.899999976158
+        },
+        {
+          "from": "preenchimento-ferramentas",
+          "to": "clique-submit",
+          "timestamp": 72241.39999997616,
+          "duration": 1498
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-salvo",
+          "timestamp": 72241.59999999404,
+          "duration": 0.20000001788139343
+        },
+        {
+          "from": "confirmacao-salvo",
+          "to": "clique-submit",
+          "timestamp": 74951.79999998212,
+          "duration": 2710.199999988079
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-salvo",
+          "timestamp": 74952.09999999404,
+          "duration": 0.30000001192092896
+        },
+        {
+          "from": "confirmacao-salvo",
+          "to": "clique-submit",
+          "timestamp": 75473.79999998212,
+          "duration": 521.6999999880791
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-salvo",
+          "timestamp": 75474,
+          "duration": 0.20000001788139343
+        },
+        {
+          "from": "confirmacao-salvo",
+          "to": "clique-submit",
+          "timestamp": 75690.39999997616,
+          "duration": 216.39999997615814
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-salvo",
+          "timestamp": 75690.39999997616,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "name": "postar-dica",
+      "totalDuration": 93856.90000000596,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "inicio-fluxo",
+          "timestamp": 99361,
+          "duration": 0.800000011920929
+        },
+        {
+          "from": "inicio-fluxo",
+          "to": "preenchimento-titulo",
+          "timestamp": 103585,
+          "duration": 4224
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 104076,
+          "duration": 491
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 104365.69999998808,
+          "duration": 289.69999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 104639.89999997616,
+          "duration": 274.19999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 105007.09999999404,
+          "duration": 367.2000000178814
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 107867.19999998808,
+          "duration": 2860.0999999940395
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 107999.29999998212,
+          "duration": 132.09999999403954
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 108351.29999998212,
+          "duration": 352
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 108603.39999997616,
+          "duration": 252.09999999403954
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 108934.89999997616,
+          "duration": 331.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 109098.59999999404,
+          "duration": 163.7000000178814
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 109222.09999999404,
+          "duration": 123.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 109528.5,
+          "duration": 306.40000000596046
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 110211.29999998212,
+          "duration": 682.7999999821186
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 110539.19999998808,
+          "duration": 327.90000000596046
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 110756,
+          "duration": 216.80000001192093
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 111032.69999998808,
+          "duration": 276.69999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 111896.19999998808,
+          "duration": 863.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 112364.89999997616,
+          "duration": 468.69999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 112709.09999999404,
+          "duration": 344.2000000178814
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 113379.59999999404,
+          "duration": 670.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 113744.5,
+          "duration": 364.90000000596046
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 114035,
+          "duration": 290.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 114185.19999998808,
+          "duration": 150.19999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 114346,
+          "duration": 160.80000001192093
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 115155.89999997616,
+          "duration": 809.8999999761581
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 115546.69999998808,
+          "duration": 390.80000001192093
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 115757.59999999404,
+          "duration": 210.90000000596046
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 115942.39999997616,
+          "duration": 184.7999999821186
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 116271.89999997616,
+          "duration": 329.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 116428.89999997616,
+          "duration": 157
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 116712.89999997616,
+          "duration": 284
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 116887.39999997616,
+          "duration": 174.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 116982.59999999404,
+          "duration": 95.2000000178814
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 118230.39999997616,
+          "duration": 1247.7999999821186
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 118457.89999997616,
+          "duration": 227.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 118682,
+          "duration": 224.10000002384186
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 118903.5,
+          "duration": 221.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 119051,
+          "duration": 147.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 119233.69999998808,
+          "duration": 182.69999998807907
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 119590.79999998212,
+          "duration": 357.09999999403954
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 120038.19999998808,
+          "duration": 447.40000000596046
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 120408.69999998808,
+          "duration": 370.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 120678.69999998808,
+          "duration": 270
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 121811.19999998808,
+          "duration": 1132.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-titulo",
+          "timestamp": 121924.69999998808,
+          "duration": 113.5
+        },
+        {
+          "from": "preenchimento-titulo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 126796.69999998808,
+          "duration": 4872
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 127194.29999998212,
+          "duration": 397.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 127620.79999998212,
+          "duration": 426.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 127900.69999998808,
+          "duration": 279.90000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 128373.39999997616,
+          "duration": 472.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 128476.69999998808,
+          "duration": 103.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 129086.19999998808,
+          "duration": 609.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 129275.19999998808,
+          "duration": 189
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 129356.19999998808,
+          "duration": 81
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130002.79999998212,
+          "duration": 646.5999999940395
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130141.89999997616,
+          "duration": 139.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130307,
+          "duration": 165.10000002384186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130594.79999998212,
+          "duration": 287.7999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130745.5,
+          "duration": 150.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 130967,
+          "duration": 221.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 131051.39999997616,
+          "duration": 84.39999997615814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 131657.5,
+          "duration": 606.1000000238419
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 132045.39999997616,
+          "duration": 387.89999997615814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 132164,
+          "duration": 118.60000002384186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 132403,
+          "duration": 239
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 132697.69999998808,
+          "duration": 294.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 132958.69999998808,
+          "duration": 261
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 133119.29999998212,
+          "duration": 160.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 133328.19999998808,
+          "duration": 208.90000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 133572.39999997616,
+          "duration": 244.19999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 133810.5,
+          "duration": 238.10000002384186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 133969.5,
+          "duration": 159
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 134182.39999997616,
+          "duration": 212.89999997615814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 135217.29999998212,
+          "duration": 1034.9000000059605
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 135380.29999998212,
+          "duration": 163
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 135866.89999997616,
+          "duration": 486.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 136435.5,
+          "duration": 568.6000000238419
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 136655.69999998808,
+          "duration": 220.19999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 136986,
+          "duration": 330.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 137219.79999998212,
+          "duration": 233.7999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 137376.59999999404,
+          "duration": 156.80000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 137576.79999998212,
+          "duration": 200.19999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 138033.29999998212,
+          "duration": 456.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 138313.79999998212,
+          "duration": 280.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 138472.79999998212,
+          "duration": 159
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 139289,
+          "duration": 816.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 139734.89999997616,
+          "duration": 445.89999997615814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 139896.29999998212,
+          "duration": 161.40000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 140198,
+          "duration": 301.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 140452.69999998808,
+          "duration": 254.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 140720,
+          "duration": 267.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 142268,
+          "duration": 1548
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 142871,
+          "duration": 603
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 143028.59999999404,
+          "duration": 157.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 143220.59999999404,
+          "duration": 192
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 143331.89999997616,
+          "duration": 111.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 143530.5,
+          "duration": 198.60000002384186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 143854.19999998808,
+          "duration": 323.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 144148.29999998212,
+          "duration": 294.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 144335.89999997616,
+          "duration": 187.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 144563.09999999404,
+          "duration": 227.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 144746.5,
+          "duration": 183.40000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 145110.79999998212,
+          "duration": 364.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 145672.79999998212,
+          "duration": 562
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 146679.5,
+          "duration": 1006.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 146824.29999998212,
+          "duration": 144.7999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 147625.29999998212,
+          "duration": 801
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 147902,
+          "duration": 276.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 148245.09999999404,
+          "duration": 343.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 148559,
+          "duration": 313.90000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 148717.39999997616,
+          "duration": 158.39999997615814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 148834.09999999404,
+          "duration": 116.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 150777.39999997616,
+          "duration": 1943.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 151248.39999997616,
+          "duration": 471
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 151520.09999999404,
+          "duration": 271.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 152144.09999999404,
+          "duration": 624
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 152708.29999998212,
+          "duration": 564.1999999880791
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 154510.09999999404,
+          "duration": 1801.800000011921
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 154638.39999997616,
+          "duration": 128.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 154855.59999999404,
+          "duration": 217.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 155131.69999998808,
+          "duration": 276.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 155253.09999999404,
+          "duration": 121.40000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 155523.19999998808,
+          "duration": 270.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 155623.5,
+          "duration": 100.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 156305,
+          "duration": 681.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 156468.69999998808,
+          "duration": 163.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 156611.5,
+          "duration": 142.80000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 157216.19999998808,
+          "duration": 604.6999999880791
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 158005.79999998212,
+          "duration": 789.5999999940395
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 158670.39999997616,
+          "duration": 664.5999999940395
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 158852.09999999404,
+          "duration": 181.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 158975.19999998808,
+          "duration": 123.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 159359.29999998212,
+          "duration": 384.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 159707.5,
+          "duration": 348.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 159843,
+          "duration": 135.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 160572.29999998212,
+          "duration": 729.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 160774.19999998808,
+          "duration": 201.90000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 161846.69999998808,
+          "duration": 1072.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 162192.59999999404,
+          "duration": 345.90000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 162402.09999999404,
+          "duration": 209.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 162704.89999997616,
+          "duration": 302.7999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 162922.89999997616,
+          "duration": 218
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 163201.39999997616,
+          "duration": 278.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 163350.69999998808,
+          "duration": 149.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 163572,
+          "duration": 221.30000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 163986.19999998808,
+          "duration": 414.19999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 164132.29999998212,
+          "duration": 146.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 164435.89999997616,
+          "duration": 303.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 164756.89999997616,
+          "duration": 321
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 165032.09999999404,
+          "duration": 275.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 165477.79999998212,
+          "duration": 445.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 165668.39999997616,
+          "duration": 190.59999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 165824.09999999404,
+          "duration": 155.7000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 166029.59999999404,
+          "duration": 205.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 166168.59999999404,
+          "duration": 139
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 166366.79999998212,
+          "duration": 198.19999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 166752.59999999404,
+          "duration": 385.80000001192093
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 167466.59999999404,
+          "duration": 714
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 167609.29999998212,
+          "duration": 142.69999998807907
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 167760.69999998808,
+          "duration": 151.40000000596046
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 167963.79999998212,
+          "duration": 203.09999999403954
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 168101,
+          "duration": 137.2000000178814
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 168562.5,
+          "duration": 461.5
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "preenchimento-conteudo",
+          "timestamp": 168685.79999998212,
+          "duration": 123.2999999821186
+        },
+        {
+          "from": "preenchimento-conteudo",
+          "to": "clique-submit",
+          "timestamp": 181240.79999998212,
+          "duration": 12555
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 182279.39999997616,
+          "duration": 1038.5999999940395
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 184930.09999999404,
+          "duration": 2650.7000000178814
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 185886,
+          "duration": 955.9000000059605
+        },
+        {
+          "from": "clique-submit",
+          "to": "clique-submit",
+          "timestamp": 187210.09999999404,
+          "duration": 1324.0999999940395
+        },
+        {
+          "from": "clique-submit",
+          "to": "confirmacao-postagem",
+          "timestamp": 187245,
+          "duration": 34.900000005960464
+        },
+        {
+          "from": "confirmacao-postagem",
+          "to": "confirmacao-postagem",
+          "timestamp": 188285.39999997616,
+          "duration": 1040.3999999761581
+        },
+        {
+          "from": "confirmacao-postagem",
+          "to": "confirmacao-postagem",
+          "timestamp": 190934.39999997616,
+          "duration": 2649
+        },
+        {
+          "from": "confirmacao-postagem",
+          "to": "confirmacao-postagem",
+          "timestamp": 191886.89999997616,
+          "duration": 952.5
+        },
+        {
+          "from": "confirmacao-postagem",
+          "to": "confirmacao-postagem",
+          "timestamp": 193217.09999999404,
+          "duration": 1330.2000000178814
+        }
+      ]
+    },
+    {
+      "name": "comentar-reagir",
+      "totalDuration": 0.5999999940395355,
+      "transitions": [
+        {
+          "from": "inicio-fluxo",
+          "to": "inicio-fluxo",
+          "timestamp": 219404.69999998808,
+          "duration": 0.5999999940395355
+        }
+      ]
+    }
+  ],
+  "rawEvents": [
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 348.09999999403954
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "inicio-fluxo",
+      "timestamp": 525.3999999761581
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "inicio-fluxo",
+      "timestamp": 525.8999999761581
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 7451.799999982119
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 8596.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 8938.899999976158
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 9162.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 9429.699999988079
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 9677.199999988079
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 9847.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 10006.899999976158
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 10263.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 10915.299999982119
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 11444.699999988079
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 11709.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 12144.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 13063
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 13538.699999988079
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-nome",
+      "timestamp": 13697.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 16798.79999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 17327.29999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 17635
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 18019.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 18730.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 18976
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 19666.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 19915.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 20804.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 21308.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 21803.899999976158
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 21941.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 23360.79999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 23698.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 23838.69999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 24796.29999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 25669.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 26035.69999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 26304.29999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 26582.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 26760.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 26887.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 27194.69999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 27878.69999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 28291.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 28497.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 29583.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 29779
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 30320.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-bio",
+      "timestamp": 30583.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-area",
+      "timestamp": 35650.19999998808
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-area",
+      "timestamp": 38248.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 42053.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 44607.89999997616
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 49570.89999997616
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 68007.5
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "preenchimento-ferramentas",
+      "timestamp": 70743.39999997616
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "clique-submit",
+      "timestamp": 72241.39999997616
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "confirmacao-salvo",
+      "timestamp": 72241.59999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "clique-submit",
+      "timestamp": 74951.79999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "confirmacao-salvo",
+      "timestamp": 74952.09999999404
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "clique-submit",
+      "timestamp": 75473.79999998212
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "confirmacao-salvo",
+      "timestamp": 75474
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "clique-submit",
+      "timestamp": 75690.39999997616
+    },
+    {
+      "flow": "criar-perfil",
+      "step": "confirmacao-salvo",
+      "timestamp": 75690.39999997616
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 77310.69999998808
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 77311
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "filtro-dev",
+      "timestamp": 94359.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "inicio-fluxo",
+      "timestamp": 99360.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "inicio-fluxo",
+      "timestamp": 99361
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 103585
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 104076
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 104365.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 104639.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 105007.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 107867.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 107999.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 108351.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 108603.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 108934.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 109098.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 109222.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 109528.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 110211.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 110539.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 110756
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 111032.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 111896.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 112364.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 112709.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 113379.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 113744.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 114035
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 114185.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 114346
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 115155.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 115546.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 115757.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 115942.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 116271.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 116428.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 116712.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 116887.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 116982.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 118230.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 118457.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 118682
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 118903.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 119051
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 119233.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 119590.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 120038.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 120408.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 120678.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 121811.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-titulo",
+      "timestamp": 121924.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 126796.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 127194.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 127620.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 127900.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 128373.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 128476.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 129086.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 129275.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 129356.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130002.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130141.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130307
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130594.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130745.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 130967
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 131051.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 131657.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 132045.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 132164
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 132403
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 132697.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 132958.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 133119.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 133328.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 133572.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 133810.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 133969.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 134182.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 135217.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 135380.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 135866.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 136435.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 136655.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 136986
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 137219.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 137376.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 137576.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 138033.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 138313.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 138472.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 139289
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 139734.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 139896.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 140198
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 140452.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 140720
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 142268
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 142871
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 143028.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 143220.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 143331.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 143530.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 143854.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 144148.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 144335.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 144563.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 144746.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 145110.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 145672.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 146679.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 146824.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 147625.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 147902
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 148245.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 148559
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 148717.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 148834.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 150777.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 151248.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 151520.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 152144.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 152708.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 154510.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 154638.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 154855.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 155131.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 155253.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 155523.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 155623.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 156305
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 156468.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 156611.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 157216.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 158005.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 158670.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 158852.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 158975.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 159359.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 159707.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 159843
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 160572.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 160774.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 161846.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 162192.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 162402.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 162704.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 162922.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 163201.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 163350.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 163572
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 163986.19999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 164132.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 164435.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 164756.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 165032.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 165477.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 165668.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 165824.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 166029.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 166168.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 166366.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 166752.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 167466.59999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 167609.29999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 167760.69999998808
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 167963.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 168101
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 168562.5
+    },
+    {
+      "flow": "postar-dica",
+      "step": "preenchimento-conteudo",
+      "timestamp": 168685.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 181240.79999998212
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 182279.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 184930.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 185886
+    },
+    {
+      "flow": "postar-dica",
+      "step": "clique-submit",
+      "timestamp": 187210.09999999404
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 187245
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 188285.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 190934.39999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 191886.89999997616
+    },
+    {
+      "flow": "postar-dica",
+      "step": "confirmacao-postagem",
+      "timestamp": 193217.09999999404
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 196458.5
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-feed",
+      "timestamp": 196458.79999998212
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "salvar-dica",
+      "timestamp": 207701.79999998212
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 210869
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 210869.59999999404
+    },
+    {
+      "flow": "comentar-reagir",
+      "step": "inicio-fluxo",
+      "timestamp": 219404.09999999404
+    },
+    {
+      "flow": "comentar-reagir",
+      "step": "inicio-fluxo",
+      "timestamp": 219404.69999998808
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 224344.59999999404
+    },
+    {
+      "flow": "explorar-salvar",
+      "step": "inicio-salvos",
+      "timestamp": 224345.09999999404
+    }
+  ]
+}

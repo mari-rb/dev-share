@@ -9,10 +9,6 @@ node_modules/
 .env*.local
 .DS_Store
 
-# Playwright test results
-results/
-test-results/
-playwright-report/
 
 # Python
 __pycache__/
