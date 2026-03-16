@@ -20,17 +20,20 @@ Uma plataforma web para compartilhamento e descoberta de dicas técnicas destina
 ## Instalação
 
 1. Clone o repositório:
+
    ```bash
    git clone <url-do-repositorio>
    cd dev-share
    ```
 
 2. Instale as dependências:
+
    ```bash
    yarn install
    ```
 
 3. Execute o servidor de desenvolvimento:
+
    ```bash
    yarn dev
    ```
